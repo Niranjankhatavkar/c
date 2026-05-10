@@ -1,1 +1,1 @@
-This repository contians all the programs that I have created from the beginning of my programming journey in c.
+This repository contain all the c programs from the beginning of my programming journey in c ,showing increamnet in my programming approach.
